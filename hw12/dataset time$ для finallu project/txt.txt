@@ -1,1 +1,2 @@
-
+ https://www.kaggle.com/datasets/psycon/wind-turbine-energy-kw-generation-data?select=sample_submission.csv
+features.csv и power.csv
